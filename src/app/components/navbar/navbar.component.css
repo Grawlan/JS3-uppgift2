@@ -1,0 +1,21 @@
+nav {
+  background: #eed7b7;
+}
+
+ul {
+  display: flex;
+  justify-content: space-between;
+  width: 40%;
+  list-style: none;
+  align-items: center;
+  margin: 0;
+    
+}
+a {
+  padding: 1rem 0;
+  color: #425154;
+  text-decoration: none;
+  font-family: 'Cinzel', serif; 
+  font-size: 1.1rem;
+  font-weight: 600;
+}
